@@ -1,0 +1,76 @@
+body{
+	background-image: url(../img/bg.jpg);
+	background-repeat: repeat-x;
+	background-color:#FFFFFF;
+}
+.a{
+	 margin: 0px;
+	 padding: 0px;
+	 border: 0px;
+}
+.c{
+	width: 100%;
+	height:45px;
+	margin: 10px auto;
+	background:blueviolet;
+	position: relative;
+}
+.c a:hover{
+	color: cornflowerblue;
+	text-decoration: underline;
+	}
+.c a{
+	font-size:18px;
+	font-family: "microsoft yahei";
+	color: #fff;
+	width: 230px;
+	height: 44px;
+	display: block;
+	float: left;
+	font-weight:350;
+	text-align: center;
+	line-height: 40px;
+	text-decoration: none;
+}
+.d{ 
+	width:10px;
+	height: 44px;
+	float: left;
+	margin-left: 15px;
+	}
+	.e{
+		width:450px;
+		height: 500px;
+		float: right;
+		margin-right:40px;
+				 
+	}
+  .e p{
+  	 
+	font-size: 20px;
+	color: #000000;
+	line-height:1.8em;
+	
+}
+.g{
+	clear: both;
+	width:10px;
+	height: 44px;
+	float: right;
+	margin-right: 15px;
+}
+.h{
+	width:540px;
+	height: 44px;
+	float: left;
+	margin-left:20px;
+}
+ .h p{
+  	 
+	font-size: 20px;
+	line-height:1.5em;
+	}
+.y{
+	clear: both;
+	
+}
